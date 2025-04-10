@@ -5,8 +5,10 @@
 This repository contains files and scripts for running molecular dynamics simulations using GROMACS.
 
 ## Project Structure
+<img width="241" alt="ProjectSturcture" src="https://github.com/user-attachments/assets/fc5b792f-ecc2-485a-bcee-148e83108721" />
 
-![Project Structure] ./Structure.png
+
+
 
 ## ENVIRONMENT REQUIREMENTS
 

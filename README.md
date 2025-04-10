@@ -5,27 +5,9 @@
 This repository contains files and scripts for running molecular dynamics simulations using GROMACS.
 
 ## Project Structure
+<img width="241" alt="ProjectSturcture" src="https://github.com/user-attachments/assets/f0e2d217-9efd-4305-8fcb-cb68f99be359" />
 
-.
-├── docs
-├── env
-├── input_files
-│   ├── file_assets
-│   │   ├── 106ES_model_01.pdb
-│   │   ├── emin-charmm.mdp
-│   │   ├── md-charmm.mdp
-│   │   ├── md-mass-charmm.mdp
-│   │   ├── md-mts-charmm.mdp
-│   │   ├── npt-charmm.mdp
-│   │   └── nvt-charmm.mdp
-│   └── user_file
-│       └── 2b42_Swissmodel.pdb 
-├── notebooks
-│   └── run_gromacs.ipynb
-├── output_files
-└── scripts
-    ├── install_Linux.sh
-    └── install_macOS.sh
+
 
 ## ENVIRONMENT REQUIREMENTS
 

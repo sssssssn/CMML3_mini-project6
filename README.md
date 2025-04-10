@@ -5,7 +5,8 @@
 This repository contains files and scripts for running molecular dynamics simulations using GROMACS.
 
 ## Project Structure
-<img width="241" alt="ProjectSturcture" src="https://github.com/user-attachments/assets/f0e2d217-9efd-4305-8fcb-cb68f99be359" />
+
+<img width="229" alt="Structure" src="https://github.com/user-attachments/assets/5385e5a5-e67e-40bb-8249-89546cbaf896" />
 
 
 
@@ -26,19 +27,3 @@ This repository contains files and scripts for running molecular dynamics simula
 5. Run the notebook line by line
 6. Output files will be saved in ./output_files/
 
-## LICENSE
-
-Copyright (C) 2025 NUO SHEN
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.

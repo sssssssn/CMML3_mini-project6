@@ -6,26 +6,7 @@ This repository contains files and scripts for running molecular dynamics simula
 
 ## Project Structure
 
-.
-├── docs
-├── env
-├── input_files
-│   ├── file_assets
-│   │   ├── 106ES_model_01.pdb
-│   │   ├── emin-charmm.mdp
-│   │   ├── md-charmm.mdp
-│   │   ├── md-mass-charmm.mdp
-│   │   ├── md-mts-charmm.mdp
-│   │   ├── npt-charmm.mdp
-│   │   └── nvt-charmm.mdp
-│   └── user_file
-│       └── 2b42_Swissmodel.pdb 
-├── notebooks
-│   └── run_gromacs.ipynb
-├── output_files
-└── scripts
-    ├── install_Linux.sh
-    └── install_macOS.sh
+![Project Structure] ./Structure.png
 
 ## ENVIRONMENT REQUIREMENTS
 
